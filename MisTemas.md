@@ -1,8 +1,8 @@
 #Jhon
 
-## Red Convexa
+## Red Conexa
 
-En una red convexa cada nodo está conectado a los dema (Se dice que dos nodos estan conectados si la red contiene al menos una trayectoria no dirigida entre ellos)
+En una red conexa cada nodo está conectado a los demas (Se dice que dos nodos estan conectados si la red contiene al menos una trayectoria no dirigida entre ellos)
 
 ## Árbol de Expansión
 
